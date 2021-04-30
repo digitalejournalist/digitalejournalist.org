@@ -8,6 +8,9 @@ Thibault Seynaeve, who else?
 ## Selectieproces tools 
 Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.com/issues).
 
+## Beleid
+Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld geven. Dat is waarom we deze pagina publieklijk hosten via Github Pages. De volledige broncode is openbaar te raadplegen via Github. Ook gebruiken we bij onze links naar externe instanties geen affiliate links. Op die manier kunnen we onze onafhankelijkheid demonstreren. De tools die hier worden opgelijst, werden zorgvuldig uitgekozen zonder enige vorm van winstbelang. Ook verzamelen we geen analytics op deze pagina en worden er geen advertenties getoond. 
+
 ---
 
 # Waarom privacy belangrijk is 

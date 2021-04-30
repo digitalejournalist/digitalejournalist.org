@@ -27,5 +27,5 @@ Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op
 ...
 
 <a name="zoekmachine"></a>
-## Browser
+## Zoekmachine
 ...

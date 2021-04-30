@@ -24,6 +24,7 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 - [Mail](#mail)
 - [Instant Messaging (IM)](#im)
 - [Notitieboek)](#notitieboek)
+- [Password Manager)](#passwordmanager)
 
 <a name="browser"></a>
 ## Browser
@@ -55,3 +56,8 @@ Waarom geen WhatsApp, Telegram, Facebook messenger, etc.
 ## Digitaal notitieboek
 Waarom geen Evernote, Apple Notes, OneNote ... 
 - StandardNotes
+
+<a name="passwordmanager"></a>
+## Password Manager
+Het is belangrijk om voor elk account een sterk uniek wachtwoord te hebben. Al die honderden wachtwoorden onthouden is echter onmogelijk, maar een wachtwoordmanager biedt hulp. In deze virtuele kluis bewaar je al jouw wachtwoorden. Meer zelfs, de tool helpt je erbij om voor elk account een enorm sterk en uniek wachtwoord te genereren. 
+- Bitwarden

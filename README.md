@@ -22,6 +22,7 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 
 **Inhoudstafel**
 - [Two Factor Authentication](#2fa)
+- [Hardware Authenticator](#hardware-authenticator)
 - [Browser](#browser)
 - [Zoekmachine](#zoekmachine)
 - [VPN (Virtual Private Network)](#vpn)
@@ -35,6 +36,11 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 <a name="2fa"></a>
 ## Two Factor Authentication
 Yubikey, Bitwarden TOTP, Aegis(?)
+
+<a name="hardware-authenticator"></a>
+## Hardware Authenticator
+Waarom is het beter dan een software authenticator 
+Yubikey? 
 
 <a name="browser"></a>
 ## Browser

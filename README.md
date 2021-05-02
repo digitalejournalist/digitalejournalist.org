@@ -30,8 +30,10 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 - [Instant Messaging (IM)](#im)
 - [Notitieboek)](#notitieboek)
 - [Password Manager)](#passwordmanager)
+- [Bestanden versleutelen)](#bestanden-versleutelen)
 - [Tekstverwerking & Office-alternatief)](#office)
-- [Bestandssynchronisatie (Dropbox-alternatief](#bestandssynchronisatie)
+- [Bestandssynchronisatie en File Storage (Dropbox-alternatief](#bestandssynchronisatie)
+- [Blogging](#blogging)
 
 <a name="2fa"></a>
 ## Two Factor Authentication
@@ -78,19 +80,21 @@ Waarom geen Evernote, Apple Notes, OneNote ...
 Het is belangrijk om voor elk account een sterk uniek wachtwoord te hebben. Al die honderden wachtwoorden onthouden is echter onmogelijk, maar een wachtwoordmanager biedt hulp. In deze virtuele kluis bewaar je al jouw wachtwoorden. Meer zelfs, de tool helpt je erbij om voor elk account een enorm sterk en uniek wachtwoord te genereren. 
 - Bitwarden
 
+<a name="bestanden-versleutelen"></a>
+## Bestanden versleutelen
+Perfect te gebruike in combinatie met cloud storage
+
 <a name="office"></a>
 ## Tekstverwerking en Office-alternatief
 
 - Cryptpad
 
+<a name="bestandssynchronisatie"></a>
+## Bestandssynchronisatie en File Storage (Dropbox-alternatief)
+Maakt in feite niet veel uit welke service je gebruikt zolang je al je bestanden versleutelt alvorens ze naar de cloud te sturen. 
+
 <a name="blogging"></a>
 ## Blogging
 
 - Write.as
-
-<a name="bestandssynchronisatie"></a>
-## Bestandssynchronisatie (Dropbox-alternatief)
-
-- ...
-
 

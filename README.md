@@ -21,6 +21,7 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 # De digitale toolbox van de privacybewuste journalist 
 
 **Inhoudstafel**
+- [Two Factor Authentication](#2fa)
 - [Browser](#browser)
 - [Zoekmachine](#zoekmachine)
 - [VPN (Virtual Private Network)](#vpn)
@@ -31,6 +32,9 @@ Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een
 - [Tekstverwerking & Office-alternatief)](#office)
 - [Bestandssynchronisatie (Dropbox-alternatief](#bestandssynchronisatie)
 
+<a name="2fa"></a>
+## Two Factor Authentication
+Yubikey, Bitwarden TOTP, Aegis(?)
 
 <a name="browser"></a>
 ## Browser

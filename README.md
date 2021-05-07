@@ -1,6 +1,6 @@
 # Over digitalejournalist.com
 ## Wat is digitalejournalist.com
-Verzamelplaats van tools voor veilige privacybewust journalistiek.
+Verzamelplaats van tools voor veilige privacybewuste journalistiek.
 
 ## Wie zit er achter digitalejournalist.com 
 Thibault Seynaeve, who else? 

@@ -62,8 +62,28 @@ Wat is het, waarom is het belangrijk, wanneer gebruik je het
 
 <a name="mail"></a>
 ## Mail
-Waarom niet Gmail of Outlook gebruiken 
-- ProtonMail
+
+Wanneer je via mail contact hebt met je bronnen, is het belangrijk om erbij stil te staan of er niemand anders is die jullie conversaties kan meelezen. Door te kiezen voor een e-mail provider die mails encrypteert, weet je zeker dat niemand anders kan meelezen. Ook voor je bron is het soms belangrijk om volledig anoniem te kunnen blijven. Dat kan niet wanneer je een Microsoft of Google-account gebruikt om mails uit te sturen. 
+
+### Let op je headers
+Het is belangrijk om te weten dat niet elk deel van je mail geëncrypteerd kan worden. Bij ProtonMail wordt bijvoorbeeld de body text wel geëncrypteerd (dus de effectieve inhoud van je mail), maar de onderwerpregel niet. Houd het onderwerp van de mail dus vrij algemeen en houd gevoelige gegevens voor de inhoud van de mail. 
+
+### ProtonMail 
+
+Binnen het privacylandschap is ProtonMail ongetwijfeld de populairste provider van een beveiligde mailomgeving. Het gaat om een product van Proton Technologies, dat onder andere ook de gerenommeerde VPN-dienst ProtonVPN aanbiedt. Enkele feiten: 
+
+* Gevestigd in Zwitserland (onder een strenge privacywetgeving)
+* Gratis pakket met 500MB opslag
+* Betalende pakketten bieden meer opslag, de mogelijkheid om een eigen domein te gebruiken, ondersteuning voor third-party e-mail clients (zoals Thunderbird)
+* Zero access encryption: mails, contacten en kalenders kunnen enkel door jou worden bekeken. ProtonMail kan op geen enkele manier jouw mails lezen. 
+* Geen persoonlijke informatie vereist om een (anoniem) account te maken. Er worden geen IP logs bewaard.
+* Open source broncode
+
+Enkel ProtonMail gebruiken als e-mailclient is echter **niet voldoende**. Ook al is jouw mailbox geëncrypteerd, daar ben je niets mee wanneer je een mail met gevoelige informatie stuurt naar een ontvanger die een mail provider zoals Outlook (Microsoft) of Gmail (Google) gebruikt. Enkel wanneer de ene ProtonMail-gebruiker naar een andere ProtonMail-gebruiker mailt, kan je erop vertrouwen dat de hele conversatie veilig verloopt. Bij het opstellen van een mail wordt aangegeven of deze persoon beschikt over ProtonMail. Wil je een mail sturen naar iemand die geen ProtonMail gebruikt, dan kan je dit bericht alsnog encrypteren. De ontvanger zal een link ontvangen waarmee hij/zij de mail kan lezen binnen de veilige omgeving van ProtonMail. 
+
+![Protonmail screenshot](https://raw.githubusercontent.com/yetimedia/digitalejournalist.org/main/images/protonmail.jpg)
+
+[Officiële website](https://protonmail.com)
 
 <a name="im"></a>
 ## Instant Messaging

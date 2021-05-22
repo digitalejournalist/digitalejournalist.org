@@ -9,17 +9,20 @@ Deze website werd gestart door de Vlaamse technologie- en gaming journalist [Thi
 Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.org/issues).
 
 ## Beleid
-Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld geven. Dat is waarom we deze pagina publieklijk hosten via Github Pages. De volledige broncode is openbaar te raadplegen via Github. Ook gebruiken we bij onze links naar externe instanties geen affiliate links. Op die manier kunnen we onze onafhankelijkheid demonstreren. De tools die hier worden opgelijst, werden zorgvuldig uitgekozen zonder enige vorm van winstbelang. Ook verzamelen we geen analytics op deze pagina en worden er geen advertenties getoond. 
+Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld geven. Dat is waarom we deze pagina publieklijk hosten via Github Pages. De volledige broncode is openbaar te raadplegen via [open community (Github)](https://github.com/yetimedia/digitalejournalist.org). Ook gebruiken we bij onze links naar externe instanties geen affiliate links. Op die manier kunnen we onze onafhankelijkheid demonstreren. De tools die hier worden opgelijst, werden zorgvuldig uitgekozen zonder enige vorm van winstbelang. Ook verzamelen we geen analytics op deze pagina en worden er geen advertenties getoond. 
 
 ---
 
 # Waarom privacy belangrijk is 
-Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een doordacht gebruik van digitale middelen al helemaal onontbeerlijk. Je werkt aan gevoelige gegevens, hebt bronnen te beschermen en bovendien wil je ongestoord onderzoek kunnen doen zonder het gevoel te hebben dat er iemand meegluurt. 
+Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een doordacht gebruik van digitale middelen al helemaal onontbeerlijk. Je werkt met gevoelige gegevens, hebt bronnen te beschermen en bovendien wil je ongestoord onderzoek kunnen doen zonder het gevoel te hebben dat er iemand meegluurt. 
+
+Toch wordt er maar weinig aandacht geschonken aan (digitale) privacy, omdat gebruikers zich er vaak niet van bewust zijn wie meegluurt (of wie kán meegluren). Bovendien gaan gebruiksgemak en privacy vaak niet hand in hand. Privacybewust te werk gaan betekent ook dat je er vrede mee neemt dat je soms wat omslachtiger te werk gaat (extra wachtwoorden, extra stappen om ergens in te loggen, bepaalde geliefkoosde applicaties laten vallen ten faveure van een privacybewust alternatief, etc.) Het ene sluit echter niet altijd het andere uit. Je hoeft niet élke tool op deze site te gebruiken. Privacybewust leven is geen eenmalige taak, maar een levensstijl. Neem kleine stapjes om jouw digitale privacy steeds te verbeteren. 
 
 ---
 
 # Best practices 
 * Gebruik voor elk account een afzonderlijk willekeurig gegenereerd wachtwoord (een password manager helpt je hierbij). 
+* ...
 
 ---
 

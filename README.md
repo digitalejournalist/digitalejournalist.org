@@ -1,12 +1,12 @@
-# Over digitalejournalist.com
-## Wat is digitalejournalist.com
-Verzamelplaats van tools voor veilige privacybewuste journalistiek.
+# Over digitalejournalist.org
+## Wat is digitalejournalist.org
+Digitalejournalist.org vormt een verzamelplaats met best practices en verzameltools die privacybewuste alternatieven vormen voor gangbare tools. Denk bijvoorbeeld aan een beveiligde mailomgeving, veilige tekstverwerker, geëncrypteerde communicatietools en meer. Deze website wordt onderhouden door een [open community (Github)](https://github.com/yetimedia/digitalejournalist.org) en heeft als doel om ook minder technisch onderlegde mensen (voornamelijk journalisten) de tools aan te reiken om privacybewust te werk te gaan. 
 
-## Wie zit er achter digitalejournalist.com 
+## Wie zit er achter digitalejournalist.org
 Deze website werd gestart door de Vlaamse technologie- en gaming journalist [Thibault Seynaeve](https://belgiangaming.org/wiki/Thibault_Seynaeve) in een poging om ook minder technisch onderlegde journalisten de tools en informatie aan te reiken om privacybewust hun job uit te oefenen. Toch vond hij het belangrijk dat er niet één persoon achter de site zit, maar dat iedereen die dit wil kan bijdragen aan de site. Iedereen wordt dan ook aangemoedigd om de inhoud op deze website in vraag te blijven stellen, te verbeteren en up-to-date te houden. Daarom is deze website volledig open source te vinden op Github. 
 
 ## Selectieproces tools 
-Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.com/issues).
+Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.org/issues).
 
 ## Beleid
 Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld geven. Dat is waarom we deze pagina publieklijk hosten via Github Pages. De volledige broncode is openbaar te raadplegen via Github. Ook gebruiken we bij onze links naar externe instanties geen affiliate links. Op die manier kunnen we onze onafhankelijkheid demonstreren. De tools die hier worden opgelijst, werden zorgvuldig uitgekozen zonder enige vorm van winstbelang. Ook verzamelen we geen analytics op deze pagina en worden er geen advertenties getoond. 

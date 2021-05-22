@@ -3,7 +3,7 @@
 Verzamelplaats van tools voor veilige privacybewuste journalistiek.
 
 ## Wie zit er achter digitalejournalist.com 
-Thibault Seynaeve, who else? 
+Deze website werd gestart door de Vlaamse technologie- en gaming journalist [Thibault Seynaeve](https://belgiangaming.org/wiki/Thibault_Seynaeve) in een poging om ook minder technisch onderlegde journalisten de tools en informatie aan te reiken om privacybewust hun job uit te oefenen. Toch vond hij het belangrijk dat er niet één persoon achter de site zit, maar dat iedereen die dit wil kan bijdragen aan de site. Iedereen wordt dan ook aangemoedigd om de inhoud op deze website in vraag te blijven stellen, te verbeteren en up-to-date te houden. Daarom is deze website volledig open source te vinden op Github. 
 
 ## Selectieproces tools 
 Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.com/issues).
@@ -15,6 +15,11 @@ Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld 
 
 # Waarom privacy belangrijk is 
 Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een doordacht gebruik van digitale middelen al helemaal onontbeerlijk. Je werkt aan gevoelige gegevens, hebt bronnen te beschermen en bovendien wil je ongestoord onderzoek kunnen doen zonder het gevoel te hebben dat er iemand meegluurt. 
+
+---
+
+# Best practices 
+* Gebruik voor elk account een afzonderlijk willekeurig gegenereerd wachtwoord (een password manager helpt je hierbij). 
 
 ---
 
@@ -70,6 +75,8 @@ Het is belangrijk om te weten dat niet elk deel van je mail geëncrypteerd kan w
 
 ### ProtonMail 
 
+[Officiële website](https://protonmail.com)
+
 Binnen het privacylandschap is ProtonMail ongetwijfeld de populairste provider van een beveiligde mailomgeving. Het gaat om een product van Proton Technologies, dat onder andere ook de gerenommeerde VPN-dienst ProtonVPN aanbiedt. Enkele feiten: 
 
 * Gevestigd in Zwitserland (onder een strenge privacywetgeving)
@@ -83,7 +90,6 @@ Enkel ProtonMail gebruiken als e-mailclient is echter **niet voldoende**. Ook al
 
 ![Protonmail screenshot](https://raw.githubusercontent.com/yetimedia/digitalejournalist.org/main/images/protonmail.jpg)
 
-[Officiële website](https://protonmail.com)
 
 <a name="im"></a>
 ## Instant Messaging

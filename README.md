@@ -2,34 +2,29 @@
 
 
 **Inhoudstafel**
-- [Wat is digitalejournalist.org](#wat-is-digitalejournalist)
-- [Wie zit er achter digitalejournalist.org](#wie-zit-erachter)
-- [Selectieproces tools](#dj-selectieproces-tools)
-- [Beleid](#dj-beleid)
-- [Waarom privacy belangrijk is](#dj-waarom-privacy-belangrijk-is)
-- [Best practices](#dj-best-practices)
-- [De digitale toolbox van de journalist](#digitale-toolbox)
+- [Wat is digitalejournalist.org](#wat-is-digitalejournalistorg)
+- [Wie zit er achter digitalejournalist.org](#wie-zit-er-achter-digitalejournalistorg)
+- [Selectieproces tools](#selectieproces-tools)
+- [Beleid](#beleid)
+- [Waarom privacy belangrijk is](#waarom-privacy-belangrijk-is)
+- [Best practices](#best-practices)
+- [De digitale toolbox van de journalist](#de-digitale-toolbox-van-de-privacybewuste-journalist)
 
-<a name="wat-is-digitalejournalist"></a>
 ## Wat is digitalejournalist.org
 Digitalejournalist.org vormt een verzamelplaats met best practices en verzameltools die privacybewuste alternatieven vormen voor gangbare tools. Denk bijvoorbeeld aan een beveiligde mailomgeving, veilige tekstverwerker, geëncrypteerde communicatietools en meer. Deze website wordt onderhouden door een [open community (Github)](https://github.com/yetimedia/digitalejournalist.org) en heeft als doel om ook minder technisch onderlegde mensen (voornamelijk journalisten) de tools aan te reiken om privacybewust te werk te gaan. 
 
-<a name="wie-zit-erachter"></a>
 ## Wie zit er achter digitalejournalist.org
 Deze website werd gestart door de Vlaamse technologie- en gaming journalist [Thibault Seynaeve](https://belgiangaming.org/wiki/Thibault_Seynaeve) in een poging om ook minder technisch onderlegde journalisten de tools en informatie aan te reiken om privacybewust hun job uit te oefenen. Toch vond hij het belangrijk dat er niet één persoon achter de site zit, maar dat iedereen die dit wil kan bijdragen aan de site. Iedereen wordt dan ook aangemoedigd om de inhoud op deze website in vraag te blijven stellen, te verbeteren en up-to-date te houden. Daarom is deze website volledig open source te vinden op Github. 
 
 
-<a name="dj-selectieproces-tools"></a>
 ## Selectieproces tools 
 Bij de keuze van de tools die we aanraden, baseren we ons in eerste instantie op het onderzoek en de community van [Privacytools.io](https://privacytools.io). Verder moedigen we iedereen aan om deze tools met een kritisch oog te blijven bekijken en eventuele zorgen of pijnpunten te melden via een [Github Issue](https://github.com/yetimedia/digitalejournalist.org/issues).
 
-<a name="dj-beleid"></a>
 ## Beleid
 Een pagina die zich richt tot privacy, moet natuurlijk zelf het goede voorbeeld geven. Dat is waarom we deze pagina publieklijk hosten via Github Pages. De volledige broncode is openbaar te raadplegen via [open community (Github)](https://github.com/yetimedia/digitalejournalist.org). Ook gebruiken we bij onze links naar externe instanties geen affiliate links. Op die manier kunnen we onze onafhankelijkheid demonstreren. De tools die hier worden opgelijst, werden zorgvuldig uitgekozen zonder enige vorm van winstbelang. Ook verzamelen we geen analytics op deze pagina en worden er geen advertenties getoond. 
 
 ---
 
-<a name="dj-waarom-privacy-belangrijk-is"></a>
 # Waarom privacy belangrijk is 
 Privacy is belangrijk voor elke computergebruiker, maar voor journalisten is een doordacht gebruik van digitale middelen al helemaal onontbeerlijk. Je werkt met gevoelige gegevens, hebt bronnen te beschermen en bovendien wil je ongestoord onderzoek kunnen doen zonder het gevoel te hebben dat er iemand meegluurt. 
 
@@ -37,57 +32,49 @@ Toch wordt er maar weinig aandacht geschonken aan (digitale) privacy, omdat gebr
 
 ---
 
-<a name="dj-best-practices"></a>
 # Best practices 
 * Gebruik voor elk account een afzonderlijk willekeurig gegenereerd wachtwoord (een password manager helpt je hierbij). 
 * ...
 
 ---
 
-<a name="digitale-toolbox"></a>
 # De digitale toolbox van de privacybewuste journalist 
 
 **Inhoudstafel**
-- [Two Factor Authentication](#2fa)
+- [Two Factor Authentication](#two-factor-authentication)
 - [Hardware Authenticator](#hardware-authenticator)
 - [Browser](#browser)
 - [Zoekmachine](#zoekmachine)
-- [VPN (Virtual Private Network)](#vpn)
+- [VPN (Virtual Private Network)](#vpn-virtual-private-network)
 - [Mail](#mail)
-- [Instant Messaging (IM)](#im)
-- [Notitieboek)](#notitieboek)
-- [Password Manager)](#passwordmanager)
+- [Instant Messaging (IM)](#instant-messaging)
+- [Notitieboek)](#digitaal-notitieboek)
+- [Password Manager)](#password-manager)
 - [Bestanden versleutelen)](#bestanden-versleutelen)
-- [Tekstverwerking & Office-alternatief)](#office)
-- [Bestandssynchronisatie en File Storage (Dropbox-alternatief](#bestandssynchronisatie)
+- [Tekstverwerking & Office-alternatief)](#tekstverwerking-en-office-alternatief)
+- [Bestandssynchronisatie en File Storage (Dropbox-alternatief](#bestandssynchronisatie-en-file-storage-dropbox-alternatief)
 - [Blogging](#blogging)
 
-<a name="2fa"></a>
 ## Two Factor Authentication
 Yubikey, Bitwarden TOTP, Aegis(?)
 
-<a name="hardware-authenticator"></a>
 ## Hardware Authenticator
 Waarom is het beter dan een software authenticator 
 Yubikey? 
 
-<a name="browser"></a>
 ## Browser
 Waarom is je browser belangrijk... 
 - Firefox (mits enige add-ons en tools) 
 - Tor
 
-<a name="zoekmachine"></a>
 ## Zoekmachine
 Waarom is Google niet goed...
 - DuckDuckGo 
 
-<a name="vpn"></a>
 ## VPN (Virtual Private Network)
 Wat is het, waarom is het belangrijk, wanneer gebruik je het 
 - ProtonVPN
 
-<a name="mail"></a>
 ## Mail
 
 Wanneer je via mail contact hebt met je bronnen, is het belangrijk om erbij stil te staan of er niemand anders is die jullie conversaties kan meelezen. Door te kiezen voor een e-mail provider die mails encrypteert, weet je zeker dat niemand anders kan meelezen. Ook voor je bron is het soms belangrijk om volledig anoniem te kunnen blijven. Dat kan niet wanneer je een Microsoft of Google-account gebruikt om mails uit te sturen. 
@@ -113,35 +100,28 @@ Enkel ProtonMail gebruiken als e-mailclient is echter **niet voldoende**. Ook al
 ![Protonmail screenshot](https://raw.githubusercontent.com/yetimedia/digitalejournalist.org/main/images/protonmail.jpg)
 
 
-<a name="im"></a>
 ## Instant Messaging
 Waarom geen WhatsApp, Telegram, Facebook messenger, etc.
 - Signal
 
-<a name="notitieboek"></a>
 ## Digitaal notitieboek
 Waarom geen Evernote, Apple Notes, OneNote ... 
 - StandardNotes
 
-<a name="passwordmanager"></a>
 ## Password Manager
 Het is belangrijk om voor elk account een sterk uniek wachtwoord te hebben. Al die honderden wachtwoorden onthouden is echter onmogelijk, maar een wachtwoordmanager biedt hulp. In deze virtuele kluis bewaar je al jouw wachtwoorden. Meer zelfs, de tool helpt je erbij om voor elk account een enorm sterk en uniek wachtwoord te genereren. 
 - Bitwarden
 
-<a name="bestanden-versleutelen"></a>
 ## Bestanden versleutelen
 Perfect te gebruike in combinatie met cloud storage
 
-<a name="office"></a>
 ## Tekstverwerking en Office-alternatief
 
 - Cryptpad
 
-<a name="bestandssynchronisatie"></a>
 ## Bestandssynchronisatie en File Storage (Dropbox-alternatief)
 Maakt in feite niet veel uit welke service je gebruikt zolang je al je bestanden versleutelt alvorens ze naar de cloud te sturen. 
 
-<a name="blogging"></a>
 ## Blogging
 
 - Write.as
